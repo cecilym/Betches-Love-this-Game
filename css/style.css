@@ -1,0 +1,29 @@
+@media screen and (min-width: 480px) {
+	
+	body {
+		margin: 2% 
+	}
+
+	#images {
+		height: 300px;
+		width: auto;
+	}
+
+}
+
+.button {
+	background-color: #fa6acb;
+	border-color: #cccccc;
+}
+
+.button:hover {
+	background-color: #fa39a7;
+}
+
+img {
+	max-height: 100%;
+}
+
+#bro1 {
+	max-height: 80%;
+}
